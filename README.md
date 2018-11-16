@@ -1,2 +1,2 @@
 # Facial-Recognition-Doorbell
-This is our Faculty of Electrical Engineering Final Project: IoT based Facial Recognition Doorbell
+This algorithm is based on the dlib library that implement CNN features for Facial Recognition.
